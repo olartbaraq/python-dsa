@@ -1,0 +1,16 @@
+In python there are 2 types of DS
+(1) Primitive e.g int, float, string, boolean
+(2) Non-Primitive e.g Linear(list, tuples, array, linked list, stack, queue) Non-linear(Set, Dictionary, tree, graph)
+
+Primitive DS are basic data types cannot be broken down into smaller data types while Non-primitive are complex data types 
+and can be broken down into smaller data types.
+
+                                        DIFFERENCES
+
+(i) Primitive DS have a fixed size and are usually smaller than non primitive DS while non-primitive DS have a larger size 
+because they can grow and shrink in size dynamically.
+
+(ii) Primitive DS are simpler and used for simple problems while non-primitive are used for more complex tasks like data 
+manipulation sorting e.t.c
+
+(iii) Primitive data are prsented in memory as values while non-primitive most times are pointers to other memory locations

@@ -1,0 +1,7 @@
+(1) Sorting - To sort data in ascending or descending order e.g bubble sort e.t.can
+(2) Search - To find specfic value in data set e.g linear search, binary search
+(3) Graph - To work with data that can be represented as a graph
+(4) Dynamic Programming - solve problems by breaking them down into smaller sub-problems
+(5) Divide and Conquer - solve problems by breaking them down into smaller sub problems,
+solving each sub-problem independently, and combining the results e.g merge sort, quick sort
+(6) Recursive - solve problems by breaking them down into smaller sub problems that are similar in nature

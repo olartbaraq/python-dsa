@@ -1,0 +1,46 @@
+Big-O is the language and metric use to describe the efficiency of algorithms. As input size grows the efficiency of algorithms 
+is measured by time complexity and space complexity.
+
+Time complexity is a way of showing how the runtime of a function increases as the size of input increases. it is generally 
+not measured by calculating stop watch but the processes of the function.
+
+Space complexity is a way of showing how much space of a function increases as the size of the input increases. i.e how much 
+memory in RAM the function uses to store all inputs, varaibles of the function to run.
+
+
+Best Case, Average case and Worst case
+
+Big -Ω is a complexity that is going to be at least more than 
+the best case
+Big -Θ is a complexity that is within bounds of the worst
+and the best cases
+Big O is a complexity that is going to be less or equal to
+the worst case.
+
+e.g numbers = [1,2,3,4,5,6,7,8]
+numbers[0] = 1 is the best case because it takes constant
+time to find it in the array
+numbers[3]= 4 is the average case because it takes just
+3 elements to loop through to find it
+numbers[7] = 8 is the Big O(worst case) because it takes
+all elements to be looped through to reach it.
+
+
+
+#####################################################
+
+RUNTIME COMPLEXITIES
+
+O(1) - constant. e.g a simple add two numbers function
+O(N) - Linear. e.g loop throuh numbers from 1 to n i.e (index o to n-1)
+O(LogN) - Logarithmic. e.g find an element in sorted array
+O(N²) - Quadratic. e.g Nested loops i.e writing two for loops
+O(2^N) - Exponential. e.g Double recursion in Fibonacci
+
+
+
+##########################################################
+
+SPACE COMPLEXITIES
+
+O(1) - constant e.g 
