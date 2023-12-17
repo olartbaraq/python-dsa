@@ -18,3 +18,5 @@ def searchArrayLinear(a: array.ArrayType, target: int) -> Union[int, str]:
 print(searchArrayLinear(array1, 4))
 print(searchArrayLinear(array1, 9))
 print(searchArrayLinear(array2, 9))
+
+# O(N) for time complexity and O(1) for space complexity
